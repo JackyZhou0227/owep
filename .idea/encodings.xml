@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/owep-vue-back-master/owep-admin-entity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/owep-vue-back-master/owep-admin-entity/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/owep-vue-back-master/owep-admin-utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/owep-vue-back-master/owep-admin-utils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/owep-vue-back-master/owep-admin-web-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/owep-vue-back-master/owep-admin-web-controller/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/owep-vue-back-master/owep-admin-web-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/owep-vue-back-master/owep-admin-web-dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/owep-vue-back-master/owep-admin-web-dto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/owep-vue-back-master/owep-admin-web-dto/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/owep-vue-back-master/owep-admin-web-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/owep-vue-back-master/owep-admin-web-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/owep-vue-back-master/owep-admin-web-vo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/owep-vue-back-master/owep-admin-web-vo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/owep-vue-back-master/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/owep-vue-back-master/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
