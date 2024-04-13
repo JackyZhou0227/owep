@@ -1,11 +1,10 @@
 # owep
-
 #### 介绍
-Online Wisdom Education Platform 智慧教育云平台
-此版本采用前后端分离开发，前端模块采用Vue3开发。
+Online Wisdom Education Platform 智慧教育云平台<br>
+此项目采用前后端分离开发，前端模块采用Vue3开发。
 
 #### 软件架构
-本系统采用Maven进行构建，并且基于Spring Boot进行开发，采用多模块结构，按软件分层思想进行架构，整个项目分为如下模块：
+本系统采用Maven进行构建，基于Spring Boot进行开发，采用多模块结构，按软件分层思想进行架构，整个项目分为如下模块：
 | owep                      | 父级项目     |
 |-------------------------- | ---------- |
 | owep-admin-entity         | 实体类模块    |
@@ -16,10 +15,8 @@ Online Wisdom Education Platform 智慧教育云平台
 | owep-admin-utils          | 工具类模块    |
 | owep-admin-web-vo         | 值对象模块    |
 
-如下图：
-
-![输入图片说明](/images/backend_modules.png "屏幕截图.png")
-
+如下图：<br>
+![输入图片说明](/images/backend_modules.png "屏幕截图.png")<br>
 业务模块主要有：
 1. 系统配置
 2. 用户管理
@@ -90,22 +87,8 @@ Online Wisdom Education Platform 智慧教育云平台
     * 在业务层中，如果需要返回数据或数据集，则应该是 DTO对象或是DTO的集合
     * 在业务层中，方法的参数，建议继续使用 Entity 类型，需要注意的是，有些属性是需要我们手动给值的，比如：version, createTime等 页页元素中没有收集的信息.
 
-
-
 #### 使用说明
 
 1.  在 owep-admin-web-controller模块中启动 spring boot类
 2.  打开浏览器访问
 3.  其它模块中，可以使用单元测试
-
-#### 参与贡献
-
-1.  git clone -b dev_v5 仓库地址
-2.  在本地新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 项目组成员
-
-
